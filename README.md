@@ -1,2 +1,0 @@
-# CardApp
-Business Card(mine)
